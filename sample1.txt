@@ -1,2 +1,2 @@
 this is a sample text file
-this file was updated 
+this file was updated. 
